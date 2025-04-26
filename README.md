@@ -2,7 +2,7 @@
 
 🚀 Aspiring QA Engineer & Frontend Developer  
 🛠️ Passionate about building clean UIs and delivering bug-free user experiences  
-🔍 Skilled in Manual Testing | Regression Testing | HTML | CSS | JavaScript | Figma |Python |Java  
+🔍 Skilled in Manual Testing | Regression Testing | HTML | CSS | JavaScript | Figma |Python |Java  |C++
 
 ---
 
